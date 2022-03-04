@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 06bf4bd3c154401449860cfc15ea4c23
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - circleDalgona: {fileID: 2945242911331872441, guid: 243ebda786da91e49a857b8985a3bb85,
+      type: 3}
+  - triangleDalgona: {fileID: 4092456128244537720, guid: 14fe9a443736b2943accd9d8ac25f522,
+      type: 3}
+  - starDalgona: {fileID: 3428460906586086153, guid: 573a4284aa274ae4ab3562ad210ecdee,
+      type: 3}
+  - umbrellaDalgona: {fileID: 2840590149672707445, guid: 3ec21c1af57684349a42220dfe0b203d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
